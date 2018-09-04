@@ -1,1 +1,1 @@
-# samidzat
+# samizdat
